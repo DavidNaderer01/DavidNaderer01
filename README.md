@@ -1,7 +1,7 @@
 # Hi there
 this is my account
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![Views](https://komarev.com/ghpvc/?username=DavidNaderer01)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidNaderer01&theme=tokyonight)
